@@ -18,6 +18,5 @@ In Sequoia/Sonoma system, the original INTEL Bluetooth has been successfully dri
 
 ![截屏2024-10-02 09 08 40](https://github.com/user-attachments/assets/b65997ed-8c05-4e11-9504-741b1ce75290)
 
-![截屏2024-10-02 09 01 54](https://github.com/user-attachments/assets/48923bd7-e548-49a5-9a84-8d05edb7794d)
 
 
